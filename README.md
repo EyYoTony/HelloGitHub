@@ -1,2 +1,2 @@
 # HelloGitHub
-![RepoImage](https://imgur.com/a/jD0vZpN)
+![RepoImage](https://i.imgur.com/p8VBiT7.png)
